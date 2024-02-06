@@ -1,4 +1,4 @@
-import LoginScreen from './shared/login/screens/LoginScreen';
+import LoginScreen from './modules/login/screens/LoginScreen';
 
 function App() {
   return <LoginScreen />;
